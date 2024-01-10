@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Root Access to Kyan's Brain
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hey there friend. 
+
