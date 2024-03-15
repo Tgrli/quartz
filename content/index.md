@@ -18,9 +18,10 @@ email: hi@kyan.li
 twitter: https://twitter.com/KyanStack
 farcaster: https://warpcast.com/kyan
 
-### Blockchain ID's
-kyan.btc
+### On chain ID's
 kyanli.btc kyanli.eth kyanli.sol 
+
+---
 
 if you want to talk im on airchat @conjecture and you can find me on all the decentralized social networks as Kyan. 
 
