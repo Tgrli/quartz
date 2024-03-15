@@ -13,8 +13,6 @@ I am always obsessed with a person or an idea at all times and reading up about 
 As a humanist it seems like all roads lead to building. 
 
 Good ideas are the most important things in the entire universe. 
-
-[[Solving]]
 ### Contacts
 email: hi@kyan.li
 twitter: https://twitter.com/KyanStack
