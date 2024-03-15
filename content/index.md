@@ -1,11 +1,11 @@
 ---
 title: Thanks for being here
 ---
-Hey there. I'm Kyan. A 25 year old builder and closeted artist.
+Hey there. I'm Kyan. A 25 year old builder and closeted artist. 
 
-My exotic ethnic name, Kyan, is pronounced exactly like 'cayenne'. I'm deeply interested in everything technology, the state of flow, and art, often finding myself engrossed in learning more about a person or an idea. Intriguingly, all my learnings often circle back to building. I believe that good ideas are the most important entities in the universe. Consider this my life's development environment and journal.
+My exotic ethnic name, Kyan, is pronounced exactly like 'cayenne'. I'm deeply interested in everything technology, the state of flow, and art, often finding myself engrossed in learning more about a person or an idea. Intriguingly, all my learnings often circle back to building. I believe that good ideas are the most important entities in the universe. 
 ### What is this?
-This is my development environment for life and journal. Theres no filter. 
+Consider this my life's development environment and journal. I am making efforts to make this chapter of my life the chapter of focused feedback. 
 
 ### Projects 
  [[Mythril]]
@@ -13,6 +13,8 @@ This is my development environment for life and journal. Theres no filter.
 Diligen.ai (sunsetting soon)
 	Due diligence tool 
 [[Everything Onchain]]
+
+Worthless business ideas 
 ### Contacts
 email: hi@kyan.li
 twitter: https://twitter.com/KyanStack
