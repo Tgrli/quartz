@@ -22,11 +22,11 @@ farcaster: https://warpcast.com/kyan
 kyan.btc
 kyanli.btc kyanli.eth kyanli.sol 
 
-if you want to talk im on airchat @conjecture and you can find me on all the new decentralized social networks as Kyan. 
+if you want to talk im on airchat @conjecture and you can find me on all the decentralized social networks as Kyan. 
 
 I personally like airchat the most, its warm its personal. A uniquely cozy format. Its a great place to talk. 
 
 My yin and yang
+![[IMG_2025 small.jpg]]
 
-
-
+![[CleanShot 2024-03-15 at 12.49.33@2x.jpg]]
