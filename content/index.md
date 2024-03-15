@@ -1,10 +1,18 @@
 ---
 title: Thanks for being here
 ---
-Hey there. I'm Kyan.
-My exotic ethnic name sounds exactly like cayenne.  Like the pepper and the porsche. I care a lot about technology, living in flow state and good art. I am always obsessed with a person or an idea at all times and reading up about it. As I learn, it seems like all roads lead to building. I think good ideas are the most important things in the entire universe. 
+Hey there. I'm Kyan. A 25 year old builder and closeted artist. Project
+
+My exotic ethnic name, Kyan, is pronounced exactly like 'cayenne'. I'm deeply interested in everything technology, the state of flow, and art, often finding myself engrossed in learning more about a person or an idea. Intriguingly, all my learnings often circle back to building. I believe that good ideas are the most important entities in the universe. Consider this my life's development environment and journal.
 ### What is this?
 This is my development environment for life and journal. Theres no filter. 
+
+### Projects 
+ [[Mythril]]
+	a [[World Building]] game
+Diligen.ai (sunsetting soon)
+	Due diligence tool 
+[[Everything Onchain]]
 ### Contacts
 email: hi@kyan.li
 twitter: https://twitter.com/KyanStack
