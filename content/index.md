@@ -8,19 +8,11 @@ My exotic ethnic name, Kyan, is pronounced exactly like 'cayenne'. I'm deeply in
 Consider this my life's development environment and journal. I am making efforts to make this chapter of my life the chapter of focused feedback. 
 
 ### Projects 
- [[Mythril]]
-	a [[world building]] game
-Diligen.ai (sunsetting soon)
-	Due diligence tool 
-[[Everything Onchain]]
+ 1. [[Mythril]] is a [[world building]] game
+ 2. Diligen.ai is a due diligence tool (Sunsetting soon)
 
-Worthless business ideas 
-### Contacts
-email: hi@kyan.li
-twitter: https://twitter.com/KyanStack
-farcaster: https://warpcast.com/kyan
 
-### On chain ID's
+### On Chain IDs
 kyanli.btc kyanli.eth kyanli.sol 
 
 ---
