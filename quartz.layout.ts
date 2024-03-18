@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      Twitter: "https://twitter.com/KyanStack", 
+      XTwitter: "https://twitter.com/KyanStack", 
       Farcaster: "https://warpcast.com/kyan",
       GitHub: "https://github.com/KyanStack",
       Email: "mailto:hi@kyan.li"

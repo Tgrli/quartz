@@ -1,6 +1,6 @@
 ---
 title: Mythril
 ---
-PlayMythril.com
+Not live
 
 Mythril is a AI powered [[world building]] game 
