@@ -1,5 +1,6 @@
 ---
 title: Post Scarcity
+draft: true
 ---
  One of my favorite topics to think about because the smartest people are working towards this goal. I think If we don't nuke ourselves and keep having sex. We'll eventually reach post scarcity. 
 

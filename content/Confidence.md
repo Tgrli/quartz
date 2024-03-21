@@ -1,5 +1,6 @@
 ---
 title: Confidence
+draft: true
 ---
 #  Nerd Up
 

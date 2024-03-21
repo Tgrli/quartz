@@ -1,5 +1,6 @@
 ---
 title: Reading List
+draft: true
 ---
 
 I consider reading in the information theory sense. Decoding and understanding information. 

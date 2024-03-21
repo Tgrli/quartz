@@ -1,5 +1,11 @@
 ---
 
-title: Thanks for being here
+title: Example Title
+
+draft: false
+
+tags:
+
+- example-tag
 
 ---

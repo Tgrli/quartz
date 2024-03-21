@@ -1,5 +1,8 @@
 ---
 title: My Story
+tags: 
+aliases: 
+draft: true
 ---
 ### Childhood 
 Born in northern China. Yes I have Commie grand parents. Moved to Canada with my mom when I was 3. Bought the whole Santa Claus thing. Started to dream talk in english. Parents don't want me to lose the Chinese language so moved back to my home town in china at 7. Went to public school in China for 7 years. Learned that teachers could beat kids and how to make a buck at the yearly young pioneer exchange market hosted by the school.

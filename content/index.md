@@ -1,5 +1,5 @@
 ---
-title: Thanks for being here
+title: Thanks for Being Here
 ---
 Hey there. I'm Kyan. 
 
