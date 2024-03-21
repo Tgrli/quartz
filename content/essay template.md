@@ -1,11 +1,6 @@
 ---
-
 title: Example Title
-
-draft: false
-
+draft: true
 tags:
-
-- example-tag
-
+  - example-tag
 ---
