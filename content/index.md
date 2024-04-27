@@ -1,7 +1,7 @@
 ---
 title: Thanks for being here
 ---
-I'm Kyan, a 25 year old builder working on [[Mythril]] and [[Golflow]]. Also I try to get smarter by writing. This is [[my story]] 
+I'm Kyan, a 25 year old builder working on [[Mythril]] and [[Golflow]]. Also I try to get smarter by writing.
 
 I'm deeply interested in everything technology. At any given point of time, I'm probably obsessed about a person or an idea. Intriguingly, all my learnings often circle back to building. I have come to believe that good ideas are the most important things in the universe. 
 ### What is this?
