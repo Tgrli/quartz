@@ -10,7 +10,9 @@ I consider reading in the information theory sense. Decoding and understanding i
 ### Books 
 goodreads link 
 ### Podcasts 
-
+founders 
+my first million
+MSSP
 ### Movies 
 
 ### Shows 

@@ -1,6 +1,8 @@
 ---
 title: Design Thinking
 draft: true
+tags:
+  - Creativity
 ---
 Ever since learning about it college. I always had the urge to dismiss design thinking as bs. Especially after visiting the idea office multiple times. I thought of it more of a coolness booster and status symbol for very profitable companies. Like B2B LV bags.
 

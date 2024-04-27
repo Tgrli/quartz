@@ -1,6 +1,8 @@
 ---
 title: Happiness
-draft:
+draft: 
+tags:
+  - FeelingGood
 ---
 A wise man once said you can't say happiness without saying penis.
 

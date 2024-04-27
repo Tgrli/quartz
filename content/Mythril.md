@@ -1,7 +1,7 @@
 ---
 title: Mythril
 tags:
-  - "#WorldBuilding"
+  - Building
 draft: true
 ---
 
@@ -96,3 +96,6 @@ And once the product is released, other people can buy this product, enjoy it, c
 I think the human's ability to delight each other is not going to go away anytime soon. So this is kind of my project, to really instantiate my worldview and test it, if it's possible. I try to operationalize my ideas I've been reading up about on building startups, building companies, building software, and human nature.
 
 I really want to test if my ideas are solid enough, and this is my attempt at doing that. Okay, please. Yeah, this is my voice transcript for the first draft of this essay of why I want to build Mithril, and why world-building is cool.
+
+
+multiple choice is easier than Q and A. We try to algorhythmically narrow down the world building process to multiple choice. 

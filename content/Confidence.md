@@ -1,6 +1,8 @@
 ---
 title: Confidence
 draft: true
+tags:
+  - FeelingGood
 ---
 #  Nerd Up
 

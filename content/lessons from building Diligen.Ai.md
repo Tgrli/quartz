@@ -1,5 +1,8 @@
 ---
 title: Lessons from Building Diligen AI
+draft: 
+tags:
+  - Learning
 ---
 
 Fun is a powerful form of truth. Truth is a force of nature. Be one with your nature. 

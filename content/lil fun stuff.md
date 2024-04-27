@@ -5,7 +5,7 @@ tags:
 draft: true
 ---
 ### **Special Days**
-BET Day Black entertainment day
+Black entertainment day
 - listen to rap music 
 - shoot hoops
 

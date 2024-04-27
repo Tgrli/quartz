@@ -1,8 +1,7 @@
 ---
 title: Digital Real Estate
 draft: true
-tags:
-  - value
+tags: []
 ---
 
 

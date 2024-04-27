@@ -1,6 +1,7 @@
 ---
 title: My Story
-tags: 
+tags:
+  - Learning
 aliases: 
 draft: true
 ---
@@ -17,7 +18,7 @@ Decided to go to the Shanghai Campus for the booming digital economy. I was dazz
 2020 Tried to be a day trader. Loved the independent nature of it. Sucked at being a day trader but decent at swing trades and investments. Got obsessed with investors. Started reading. 
 
 ### Now 
-I don't know if Im on track to be come mini Steve Jobs or Im a loser working on a DIY project at home. 
+I don't know if Im on track to become a formidable founder or Im a loser working on a DIY project at home. 
 
 Desire: 
 Freedom 

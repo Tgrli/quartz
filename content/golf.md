@@ -1,6 +1,8 @@
 ---
 title: Golf
-draft:
+draft: 
+tags:
+  - FeelingGood
 ---
 Golf is the closet thing to hunting city men can access. 
 
