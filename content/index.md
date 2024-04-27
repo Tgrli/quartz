@@ -15,4 +15,4 @@ kyanli.btc kyanli.eth kyanli.sol
 
 ---
 ### Let's Talk
-I personally like airchat the most, it's warm and personal. A uniquely cozy format. A great place to actually talk. I'm @kyanli hit me up.
+Airchat is a uniquely cozy format. A great place to actually talk. I'm @kyanli hit me up.
