@@ -4,7 +4,7 @@ draft: true
 tags:
   - FeelingGood
 ---
-Not live 
+Skill Stack: Golf, Product Building, Film Making
 
 Golflow: a farcaster client for golfers 
 - use fames to record scores

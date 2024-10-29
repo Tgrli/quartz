@@ -5,7 +5,9 @@ tags:
 draft: true
 ---
 
-Mythril is a AI powered [[world building]] game 
+Mythril is a AI powered [[world building]] game.
+
+Skill stack: Story Writing, Software Building, Film Making
 
 Some men want fame some want power. All I want is to play a game that's productive. A game that spits out a valuable thing for me. After the long campaign is over.
 
